@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-6527
-Fork on GitHub
-1162
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Arjun Adhikari</h1>
 <h3 align="center">A passionate backend and android developer from Nepal</h3>
 
