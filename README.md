@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/arjunadhikary14" target="blank"><img src="https://img.shields.io/twitter/follow/arjunadhikary14?logo=twitter&style=for-the-badge" alt="arjunadhikary14" /></a> </p>
 
-- 🔭 I’m currently working on [PU.IO](https://github.com/codekavya/pu.io)
-
 - 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arjunadhikary?tab=repositories](https://github.com/arjunadhikary?tab=repositories)
 
-- 💬 Ask me about **nodejs,native android**
+- 💬 Ask me about **Javascript,native android,Api Development**
 
-- 📫 How to reach me **arjun@codekavya.com**
+- 📫 How to reach me **reasonworld12345@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
