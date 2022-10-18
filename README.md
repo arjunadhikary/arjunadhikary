@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunadhikary&label=Profile%20views&color=0e75b6&style=flat" alt="arjunadhikary" /> </p>
 
-<p align="left"> <a href="https://twitter.com/arjunadhikary14" target="blank"><img src="https://img.shields.io/twitter/follow/arjunadhikary14?logo=twitter&style=for-the-badge" alt="arjunadhikary14" /></a> </p>
+<p align="left"> <a href="https://twitter.com/adhikariarjun9" target="blank"><img src="https://img.shields.io/twitter/follow/arjunadhikary14?logo=twitter&style=for-the-badge" alt="arjunadhikary14" /></a> </p>
 
 - 🌱 I’m currently learning **Typescript**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/adhikariarjun99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arjunadhikary14" height="30" width="40" /></a>
+<a href="https://twitter.com/adhikariarjun9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arjunadhikary14" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arjun-adhikari-644660173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-adhikari-644660173" height="30" width="40" /></a>
 <a href="https://fb.com/reasonworld123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="reasonworld123" height="30" width="40" /></a>
 <a href="https://instagram.com/arjun_adhikary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjun_adhikary" height="30" width="40" /></a>
